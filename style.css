@@ -35,11 +35,11 @@ button {
 #matrix {
     background-color: #4004a6ab;
     color:white;
-    font-size: 16px;
+    font-size: 14px;
     border: 1px solid black;
-    width: 26vw;
-    height: 75vh;
-    margin-top: 18px;
+    width: 37.5vw;
+    height: 66vh;
+    margin-top: 30px;
     padding: 8px;
     display :flex;
     justify-content: center;
