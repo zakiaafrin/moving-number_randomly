@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Blancos.png/280px-Blancos.png);
+}
+
+.start {
+    border: 2px solid black;
+    background-color: rgb(228, 3, 224);
+    border-radius: 5%;   
+}
+
+button{
+    color: white;
+    padding: 6px;
+    font-family: monospace,cursive;
+    font-size: 18px;
+    font-weight: bold;
+    outline: none;
+}
+
+.table{
+    display :flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#matrix{
+    background-color: #4004a6ab;
+    color:white;
+    font-size: 16px;
+    border: 1px solid black;
+    width: 25vw;
+    height: 80vh;
+    margin-top: 18px;
+    padding: 8px;
+    display :flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
