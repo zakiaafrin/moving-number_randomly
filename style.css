@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Righteous", sans-serif;
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Blancos.png/280px-Blancos.png);
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Blancos.png/280px-Blancos.png');
 }
 
 .start {
@@ -37,10 +37,10 @@ button {
     color:white;
     font-size: 14px;
     border: 1px solid black;
-    width: 37.5vw;
+    width: 37.745vw;
     height: 66vh;
     margin-top: 30px;
-    padding: 8px;
+    padding: 7px;
     display :flex;
     justify-content: center;
     flex-direction: column;
